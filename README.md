@@ -13,3 +13,4 @@ We used the Modern Portfolio theory with the help of library PyPortfolioOpt().
 The key components of our model (used in optimization) were: Weight matrix Covariance matrix , Volatility or Standard deviation (risk), Sharpe ratio, Efficient frontier theory and Annual return.
 
 The POWERBI Dashboard and Excel sheet with the allocation are uploaded in the repository.
+Project Video Link: https://www.youtube.com/watch?v=uvx3rxxXwQo&t=1s
